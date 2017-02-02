@@ -1,0 +1,32 @@
+{
+  "name": "react-scripts-ts-loader",
+  "version": "0.0.1",
+  "description": "Add typescript loader to create-react-app project",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrphu3074/react-scripts-ts-loader.git"
+  },
+  "keywords": [
+    "create-react-app",
+    "react",
+    "react-scripts",
+    "react-scripts-extend",
+    "react-scripts-middleware",
+    "ts-loader",
+    "typescript"
+  ],
+  "author": "Phu Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrphu3074/react-scripts-ts-loader/issues"
+  },
+  "homepage": "https://github.com/mrphu3074/react-scripts-ts-loader#readme",
+  "dependencies": {
+    "ts-loader": "^2.0.0",
+    "typescript": "^2.1.5"
+  }
+}
